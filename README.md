@@ -21,3 +21,7 @@ W temacie maila obowiązkowo proszę wpisać na początku: `[ASO][klasa+grupa a 
    - `-` poprawiamy wysyłając sprawozdanie z poprawnymi rozwiązaniami zadań na maila z tematu, z którego brakuje rozwiązania zadania.
 5. W przypadku, gdy uczeń będzie miał tylko same plusy, bez `-` oraz innych ocen, to ocena końcowa będzie wynosiła `2`.
 6. W przypadku, gdy uczeń będzie miał same plusy oraz oceny, to ocena końcowa będzie konsultowana indywidualnie z nauczycielem.
+
+## Link do dysku z VM
+
+[Google Drive](https://drive.google.com/drive/folders/1y25uW88zlNtKv29G9ido2EYF6fc2iyuF?usp=sharing)
