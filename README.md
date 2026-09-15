@@ -6,7 +6,7 @@ Materiały z zajęć i na zajęcia.
 
 Wszystkie sprawozdania proszę wysyłać na adres: `a.goral@lo16.wroc.pl`.
 
-W temacie maila obowiązkowo proszę wpisać na początku: `[ASO][klasa+grupa a lub b][skrót dnia tygodnia]` oraz imię i nazwisko np. `[ASO][1ATa][czw] Sprawozdanie z zajęć 1 - Jan Kowalski`. W innym przypadku sprawozdanie może trafić do spamu lub zostać przeoczone.
+W temacie maila obowiązkowo proszę wpisać na początku: `[ASO][klasa+grupa a lub b][skrót dnia tygodnia w którym odbywały się zajęcia]` oraz imię i nazwisko np. `[ASO][1ATa][czw] Sprawozdanie z zajęć 1 - Jan Kowalski`. W innym przypadku sprawozdanie może trafić do spamu lub zostać przeoczone.
 
 > [!WARNING]
 > Nie przesyłaj sprawozdań w formacie DOCX, tylko w formacie **_PDF_**.
