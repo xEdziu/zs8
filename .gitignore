@@ -1,0 +1,14 @@
+# Zrodla LaTeX (trzymamy w Overleafie; do repo trafiaja tylko PDF-y)
+*.tex
+
+# Pliki pomocnicze LaTeX
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+*.fls
+*.fdb_latexmk
