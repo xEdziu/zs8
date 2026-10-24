@@ -1,5 +1,8 @@
 # Zrodla LaTeX (trzymamy w Overleafie; do repo trafiaja tylko PDF-y)
 *.tex
+*.php
+*.md
+*.sh
 
 # Pliki pomocnicze LaTeX
 *.aux
